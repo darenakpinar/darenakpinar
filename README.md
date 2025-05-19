@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Daren
 - 👀 I’m interested in Data Science And Artifical Intelligence
 - 🌱 I’m currently in Computer Science And Data Science major.
-- 💞️ I’m looking to collaborate on internships
+- 🫡 I’m looking to collaborate on internships
 - 📫 How to reach me --> darenakpinar@gmail.com
