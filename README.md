@@ -1,4 +1,4 @@
-# Hey, I'm Daren 👋
+# I'm Daren 👋
 
 Currently, I work on production-oriented computer vision infrastructure involving RTSP camera streams, Docker services, Redis, PostgreSQL, DeepStream-style pipelines, and fault-tolerant video analytics systems.
 
