@@ -14,6 +14,5 @@ Currently, I work on production-oriented computer vision infrastructure involvin
 - Computer vision
 - Backend systems
 - Data science
-- Scalable deployment
 - Automation
 Always open to collaborating on AI, data, and systems projects.
